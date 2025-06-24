@@ -8,6 +8,10 @@
 
 // Capítulo 3, página 34: Dados lógicos e comparações
 
+// As variáveis lógicas respondem á escolhas apenas com duas 
+// respostas: verdadeir (true) ou false (false), o que corresponde
+// a resolver um dilema (problema que aceita apenas duas soluções).
+
 using namespace std;
 
 int main(int argc, char** argv) {
