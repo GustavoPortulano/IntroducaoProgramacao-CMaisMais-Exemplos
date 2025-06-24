@@ -22,6 +22,8 @@ int main(int argc, char** argv) {
 	cout << "Digite o segundo número: ";
 	cin >> numero2;
 	
+	//Os valores das variáveis vão mudando conforme as operações matemáticas.
+	
 	numero1 += numero2;
 	cout << "Somando ";
 	cout << numero2 << " -> " << numero1 << endl;
